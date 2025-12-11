@@ -43,4 +43,3 @@ When the app is running, you should see output similar to the following:
 ```
 
 Open a browser and navigate to `http://localhost:8080/`. You should see the store front app running.
-
